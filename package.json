@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hanxuema/weatherApp/issues"
   },
-  "homepage": "https://github.com/hanxuema/weatherApp#readme"
+  "homepage": "https://github.com/hanxuema/weatherApp#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
 }
